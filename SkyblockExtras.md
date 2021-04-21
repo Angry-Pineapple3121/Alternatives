@@ -23,9 +23,6 @@ Note: Using SkyblockCatia is not recommended, since it has many incompatibilitie
 - [**Shitty puzzle solvers v1**](https://i.imgur.com/zXydj0j.png)
 - [**Shitty features v1**](https://i.imgur.com/T3V8kDQ.png)
 - [**Shitty features v2**](https://i.imgur.com/mFdaV2n.png)
-- [**Crashes v1**](https://i.imgur.com/qceiw9L.png)
-- [**Crashes v2**](https://i.imgur.com/qQh0dnD.png)
-- [**Crashes v3**](https://i.imgur.com/huIruwt.png)
 - **Shit code**
     - Can tell by incompatibility nightmare
 - [**Obfuscated to fuck**](https://i.imgur.com/r5RROwf.png) 
