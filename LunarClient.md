@@ -28,7 +28,7 @@
 - **Clock** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
 - **Stopwatch** - [BatHeart's Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073)
 - **Memory Usage** - [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
-- **Combo Counter** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD)
+- **Combo Counter** - [Erouax Combo Display](https://www.mediafire.com/file/ofrq5kgikbklb2a/Combo_Display_1.8.9.jar/file)
 - **Reach Display** - [Dewgs's ReachDisplay](https://www.youtube.com/watch?v=myQKoGnCjxY)
 - **Timechanger** [Shatterpoint's Revamped Timechanger](https://github.com/shatter-point/Revamped-TimeChanger/releases)
 - **Server Address** - [Sk1er's ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev's 5Zig Reborn](https://5zigreborn.eu/)
