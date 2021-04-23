@@ -40,7 +40,7 @@ Note: Using SkyblockCatia is not recommended, since it has many incompatibilitie
 - [**Blatantly steals from Patcher**](https://i.imgur.com/1Ir8zjS.png) 
     - Context: When Patcher 1.5 was in beta, and 1.12 crop hitboxes were added, they were bugged and were pretty broken. When Complex "made" his version, he somehow managed to produce the exact same bug. Fishy. Moulberry then helped fix the Patcher glitch, and soon after, Complex had also magically fixed it.
     - They also use [Sk1er's ModCore](https://i.imgur.com/fkWUtGi.png), despite breaking Sk1er's license, which is scummy (and illegal).
-- [**Crop Hitboxes and Patcher**]
+- **Crop Hitboxes and Patcher**
     - For some more background, in the SBE code and the Patcher code, there is code for crop hitboxes. Across the two mods, they are 100% identical. The ONLY changes made between the two mods is that the orders of the crops are slightly different. This aso ties into what was discussed above.
     - [Patcher's Crop Botboxes](https://hst.sh/wosekuxana.java)
     - [SBE's Crop Hitboxes](https://hst.sh/odupiwadut.java)
